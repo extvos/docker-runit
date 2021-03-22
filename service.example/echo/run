@@ -1,0 +1,7 @@
+#!/usr/bin/env sh
+
+set -e
+
+exec 2>&1
+
+echo "This is just a test!"
